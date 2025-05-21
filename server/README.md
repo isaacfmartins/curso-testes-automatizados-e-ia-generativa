@@ -67,7 +67,6 @@ If there are customers in the database, the following JSON structure should be r
 }
 
 ```
-
 **Notes:**
 
 - The **contactInfo** and **address** values are `null` when the customer doesn't have contact or address information in the database;
